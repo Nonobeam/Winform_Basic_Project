@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="View\Admin.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\CustomerWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Dialog\AddDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Dialog\AddRoom.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Dialog\PieChart.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Dialog\UpdateDialog.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Dialog\UpdateRoom.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\HistoryWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\ReportWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\RoomWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="View\Admin.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\CustomerWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Dialog\AddDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Dialog\AddRoom.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Dialog\PieChart.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Dialog\UpdateDialog.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Dialog\UpdateRoom.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\HistoryWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ReportWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\RoomWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

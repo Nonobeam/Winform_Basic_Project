@@ -1,0 +1,12 @@
+C:\Users\Asus\Documents\PRN212\NguyenHuuPhuc_SE1816_A01\ManageHotel\bin\Debug\net8.0\ManageHotel.deps.json
+C:\Users\Asus\Documents\PRN212\NguyenHuuPhuc_SE1816_A01\ManageHotel\bin\Debug\net8.0\ManageHotel.dll
+C:\Users\Asus\Documents\PRN212\NguyenHuuPhuc_SE1816_A01\ManageHotel\bin\Debug\net8.0\ManageHotel.pdb
+C:\Users\Asus\Documents\PRN212\NguyenHuuPhuc_SE1816_A01\ManageHotel\obj\Debug\net8.0\ManageHotel.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\PRN212\NguyenHuuPhuc_SE1816_A01\ManageHotel\obj\Debug\net8.0\ManageHotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\PRN212\NguyenHuuPhuc_SE1816_A01\ManageHotel\obj\Debug\net8.0\ManageHotel.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\PRN212\NguyenHuuPhuc_SE1816_A01\ManageHotel\obj\Debug\net8.0\ManageHotel.AssemblyInfo.cs
+C:\Users\Asus\Documents\PRN212\NguyenHuuPhuc_SE1816_A01\ManageHotel\obj\Debug\net8.0\ManageHotel.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\PRN212\NguyenHuuPhuc_SE1816_A01\ManageHotel\obj\Debug\net8.0\ManageHotel.dll
+C:\Users\Asus\Documents\PRN212\NguyenHuuPhuc_SE1816_A01\ManageHotel\obj\Debug\net8.0\refint\ManageHotel.dll
+C:\Users\Asus\Documents\PRN212\NguyenHuuPhuc_SE1816_A01\ManageHotel\obj\Debug\net8.0\ManageHotel.pdb
+C:\Users\Asus\Documents\PRN212\NguyenHuuPhuc_SE1816_A01\ManageHotel\obj\Debug\net8.0\ref\ManageHotel.dll
