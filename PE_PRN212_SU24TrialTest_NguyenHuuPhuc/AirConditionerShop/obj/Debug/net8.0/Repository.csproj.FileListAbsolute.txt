@@ -1,0 +1,11 @@
+C:\Users\Asus\Documents\PRN212\PE_PRN212_SU24TrialTest_NguyenHuuPhuc\AirConditionerShop\bin\Debug\net8.0\Repository.deps.json
+C:\Users\Asus\Documents\PRN212\PE_PRN212_SU24TrialTest_NguyenHuuPhuc\AirConditionerShop\bin\Debug\net8.0\Repository.dll
+C:\Users\Asus\Documents\PRN212\PE_PRN212_SU24TrialTest_NguyenHuuPhuc\AirConditionerShop\bin\Debug\net8.0\Repository.pdb
+C:\Users\Asus\Documents\PRN212\PE_PRN212_SU24TrialTest_NguyenHuuPhuc\AirConditionerShop\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\PRN212\PE_PRN212_SU24TrialTest_NguyenHuuPhuc\AirConditionerShop\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\PRN212\PE_PRN212_SU24TrialTest_NguyenHuuPhuc\AirConditionerShop\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\Asus\Documents\PRN212\PE_PRN212_SU24TrialTest_NguyenHuuPhuc\AirConditionerShop\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\PRN212\PE_PRN212_SU24TrialTest_NguyenHuuPhuc\AirConditionerShop\obj\Debug\net8.0\Repository.dll
+C:\Users\Asus\Documents\PRN212\PE_PRN212_SU24TrialTest_NguyenHuuPhuc\AirConditionerShop\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\Asus\Documents\PRN212\PE_PRN212_SU24TrialTest_NguyenHuuPhuc\AirConditionerShop\obj\Debug\net8.0\Repository.pdb
+C:\Users\Asus\Documents\PRN212\PE_PRN212_SU24TrialTest_NguyenHuuPhuc\AirConditionerShop\obj\Debug\net8.0\ref\Repository.dll

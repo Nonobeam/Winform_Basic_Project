@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+H7pmtdrYAj4ftHpRQjEQ2mvzTfBcgDuWJZ1oOyYgu4IEw/Tu0jDl6XwZLNGycQnXtzyzFy0PL6axurkur6F0A==",
+  "dgSpecHash": "Uhl13rEXJLUOY2e/Gn1nBkaeyb2iMctJt8nFwPxIOO/kVVCiSpnoNOsfvrGP3WGsM11rZpC8RYzZnRUfWsDOUw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Asus\\Documents\\PRN212\\NguyenHuuPhuc_SE1816_A01\\ManageHotel\\ManageHotel.csproj",
+  "projectFilePath": "C:\\Users\\Asus\\Documents\\PRN212\\Winform_Basic_Project\\ManageHotelSystem\\ManageHotel\\ManageHotel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

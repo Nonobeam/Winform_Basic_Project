@@ -2754,11 +2754,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\Documents\\PRN212\\NguyenHuuPhuc_SE1816_A01\\ManageHotel\\ManageHotel.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\Documents\\PRN212\\Winform_Basic_Project\\ManageHotelSystem\\ManageHotel\\ManageHotel.csproj",
       "projectName": "ManageHotel",
-      "projectPath": "C:\\Users\\Asus\\Documents\\PRN212\\NguyenHuuPhuc_SE1816_A01\\ManageHotel\\ManageHotel.csproj",
+      "projectPath": "C:\\Users\\Asus\\Documents\\PRN212\\Winform_Basic_Project\\ManageHotelSystem\\ManageHotel\\ManageHotel.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\Documents\\PRN212\\NguyenHuuPhuc_SE1816_A01\\ManageHotel\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\Documents\\PRN212\\Winform_Basic_Project\\ManageHotelSystem\\ManageHotel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

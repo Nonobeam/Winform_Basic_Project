@@ -1,0 +1,17 @@
+﻿<Application x:Class="AirConditionerShop_NguyenHuuPhuc.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:AirConditionerShop_NguyenHuuPhuc"
+             StartupUri="Login.xaml">
+    <Application.Resources>
+        <Style TargetType="TextBox">
+            <Setter Property="Foreground" Value="Blue"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        </Style>
+
+        <Style TargetType="Label">
+            <Setter Property="Foreground" Value="Black"/>
+            <Setter Property="HorizontalContentAlignment" Value="Left"/>
+        </Style>
+    </Application.Resources>
+</Application>
